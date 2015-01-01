@@ -7,7 +7,7 @@ http://quirksmode.org/css/user-interface/boxsizing.html
 Visually Hiding Content
 ------
 
-How would you implement a web design comp that uses non-standard fonts?
+Using Non-Standard Fonts
 ------
 
 Webfonts (font services like: Google Webfonts, Typekit etc.)
@@ -15,16 +15,16 @@ Webfonts (font services like: Google Webfonts, Typekit etc.)
 Em and Rem Units
 ------
 
-When to use the button element
+When to use the Button Element
 ------
 
-Grid Systems
+CSS Grid Systems
 ------
 
-Media queries & mobile specific layouts
+Media Queries & Mobile Specific Layouts
 ------
 
-Optimizing webpages for print
+Optimizing Webpages for Print
 ------
 
 Writing efficient CSS
