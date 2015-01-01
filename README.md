@@ -1,4 +1,4 @@
-Box Models 
+CSS Box Models 
 ------
 
 http://quirksmode.org/css/user-interface/boxsizing.html
@@ -7,10 +7,6 @@ http://quirksmode.org/css/user-interface/boxsizing.html
 Visually Hiding Content
 ------
 
-Using Non-Standard Fonts
-------
-
-Webfonts (font services like: Google Webfonts, Typekit etc.)
 
 Em and Rem Units
 ------
@@ -23,6 +19,11 @@ CSS Grid Systems
 
 Media Queries & Mobile Specific Layouts
 ------
+
+Using Non-Standard Fonts
+------
+
+Webfonts (font services like: Google Webfonts, Typekit etc.)
 
 Optimizing Webpages for Print
 ------
