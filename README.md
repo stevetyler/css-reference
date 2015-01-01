@@ -15,19 +15,19 @@ Webfonts (font services like: Google Webfonts, Typekit etc.)
 Em and Rem Units
 ------
 
-When to use the Button element
+When to use the button element
 ------
 
 Grid Systems
 ------
 
-Media Queries & Mobile Specific Layouts/CSS
+Media queries & mobile specific layouts
 ------
 
-Optimizing Webpages for Print
+Optimizing webpages for print
 ------
 
-Writing efficient
+Writing efficient CSS
 ------
 
 CSS PreProcessors
