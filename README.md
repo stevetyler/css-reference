@@ -22,7 +22,7 @@ There are 2 different box models:
 
 By default, all browsers use the W3C box model, with the exception of IE in "Quirks Mode" (IE5.5 Mode), which uses the traditional one.
 
-The box-sizing property allows you to switch box models.
+The box-sizing property allows you to switch box models and is compatible with IE8+ http://caniuse.com/#search=box-sizing
 
 <pre><code>box-sizing: border-box
 box-sizing: content-box</code></pre>
