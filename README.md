@@ -33,14 +33,15 @@ Mozilla supports an additional padding-box value, which will cause the sizes to 
 
 Compatibility : IE8+ http://caniuse.com/#search=box-sizing
 
-Source: http://quirksmode.org/css/user-interface/boxsizing.html
+Reference: http://quirksmode.org/css/user-interface/boxsizing.html
   
 <a name='hiding'>Visually hiding content<a/>
 ------
 
-
 <a name='em'>Em and rem units<a/>
 ------
+
+Reference: https://j.eremy.net/confused-about-rem-and-em/
 
 <a name='button'>When to use the button element<a/>
 ------
