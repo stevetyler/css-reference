@@ -14,9 +14,25 @@
 
 <a name='box'>CSS box models<a/> 
 ------
+There are 2 different box models:
 
-http://quirksmode.org/css/user-interface/boxsizing.html
+1. In the W3C box model, the width of an element gives the width of the content of the box, excluding padding and border.
 
+2. In the traditional box model, the width of an element gives the width between the borders of the box, including padding and border.
+
+By default, all browsers use the W3C box model, with the exception of IE in "Quirks Mode" (IE5.5 Mode), which uses the traditional one.
+
+The box-sizing property allows you to switch box models.
+
+<pre><code>box-sizing: border-box
+box-sizing: content-box</code></pre>
+
+
+The first declaration will cause the box sizes to be applied to the border and everything inside it (traditional model), the second one will cause the box sizes to be applied to the content only (W3C model).
+
+Mozilla supports an additional padding-box value, which will cause the sizes to be applied to the padding and content, but not the border.
+
+Source: http://quirksmode.org/css/user-interface/boxsizing.html
   
 <a name='hiding'>Visually hiding content<a/>
 ------
