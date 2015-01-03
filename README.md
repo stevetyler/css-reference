@@ -1,9 +1,9 @@
 <a name='toc'>Table of Contents</a>
 ------
 
-1. [CSS Box Models](#box)
-1. [Visually Hiding Content](#hiding)
-1. [Em and Rem Units](#em)
+1. [CSS box models](#box)
+1. [Visually hiding content](#hiding)
+1. [Em and rem units](#em)
 1. [When to use the button element](#button)
 1. [CSS grid systems](#grids)
 1. [When to use the button element](#button) 
