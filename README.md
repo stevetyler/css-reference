@@ -6,8 +6,6 @@
 1. [Em and rem units](#em)
 1. [When to use the button element](#button)
 1. [CSS grid systems](#grids)
-1. [When to use the button element](#button) 
-1. [CSS grid systems](#grids)
 1. [Media queries & mobile specific layouts](#media)
 1. [Using non-standard fonts](#fonts)
 1. [Optimizing webpages for print](#print)
