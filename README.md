@@ -46,6 +46,8 @@ Reference: https://j.eremy.net/confused-about-rem-and-em/
 <a name='button'>When to use the button element<a/>
 ------
 
+Reference: http://css-tricks.com/use-button-element/
+
 <a name='grids'>CSS grid systems<a/>
 ------
 
@@ -66,5 +68,5 @@ Webfonts (font services like: Google Webfonts, Typekit etc.)
 <a name='ir'>Image replacement techniques<a/>
 ------
 
-Ref: http://css-tricks.com/css-image-replacement/
+Reference: http://css-tricks.com/css-image-replacement/
 
