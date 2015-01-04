@@ -33,7 +33,7 @@ Mozilla supports an additional padding-box value, which will cause the sizes to 
 
 Compatibility : IE8+ http://caniuse.com/#search=box-sizing
 
-Reference: http://quirksmode.org/css/user-interface/boxsizing.html
+Source: http://quirksmode.org/css/user-interface/boxsizing.html
   
 <a name='hiding'>Visually hiding content<a/>
 ------
@@ -41,12 +41,12 @@ Reference: http://quirksmode.org/css/user-interface/boxsizing.html
 <a name='em'>Em and rem units<a/>
 ------
 
-Reference: https://j.eremy.net/confused-about-rem-and-em/
+Source: https://j.eremy.net/confused-about-rem-and-em/
 
 <a name='button'>When to use the button element<a/>
 ------
 
-Reference: http://css-tricks.com/use-button-element/
+Source: http://css-tricks.com/use-button-element/
 
 <a name='grids'>CSS grid systems<a/>
 ------
@@ -68,5 +68,5 @@ Webfonts (font services like: Google Webfonts, Typekit etc.)
 <a name='ir'>Image replacement techniques<a/>
 ------
 
-Reference: http://css-tricks.com/css-image-replacement/
+Source: http://css-tricks.com/css-image-replacement/
 
