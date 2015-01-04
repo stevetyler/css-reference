@@ -66,5 +66,5 @@ Webfonts (font services like: Google Webfonts, Typekit etc.)
 <a name='ir'>Image replacement techniques<a/>
 ------
 
-
+Ref: http://css-tricks.com/css-image-replacement/
 
