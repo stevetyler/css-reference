@@ -11,6 +11,7 @@
 1. [Optimizing webpages for print](#print)
 1. [CSS pre-processors](#preprocessors)
 1. [Image replacement techniques](#ir)
+1. [Writing efficient CSS](#eficient)
 
 <a name='box'>CSS box models<a/> 
 ------
@@ -69,4 +70,11 @@ Webfonts (font services like: Google Webfonts, Typekit etc.)
 ------
 
 Source: http://css-tricks.com/css-image-replacement/
+
+<a name='efficient'>Writing Efficient CSS<a/>
+
+Source: http://csswizardry.com/2012/05/keep-your-css-selectors-short/
+
+
+
 
