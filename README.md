@@ -2,6 +2,7 @@
 ------
 
 1. [CSS box models](#box)
+1. [Floats](#floats)
 1. [Visually hiding content](#hiding)
 1. [Em and rem units](#em)
 1. [When to use the button element](#button)
@@ -35,6 +36,11 @@ Mozilla supports an additional padding-box value, which will cause the sizes to 
 Compatibility : IE8+ http://caniuse.com/#search=box-sizing
 
 Source: http://quirksmode.org/css/user-interface/boxsizing.html
+  
+<a name='floats'>Floats</a>
+------
+
+Source: http://css-tricks.com/all-about-floats/
   
 <a name='hiding'>Visually hiding content<a/>
 ------
