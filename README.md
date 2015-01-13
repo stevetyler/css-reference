@@ -3,6 +3,7 @@
 
 1. [CSS box models](#box)
 1. [Floats](#floats)
+1. [Normalize.css vs resets](#resets)
 1. [Visually hiding content](#hiding)
 1. [Em and rem units](#em)
 1. [When to use the button element](#button)
@@ -41,6 +42,10 @@ Source: http://quirksmode.org/css/user-interface/boxsizing.html
 ------
 
 Source: http://css-tricks.com/all-about-floats/
+  
+<a name='resets'>Normalize.css vs Resets</a>
+
+Source: http://stackoverflow.com/questions/6887336/what-is-the-difference-between-normalize-css-and-reset-css
   
 <a name='hiding'>Visually hiding content<a/>
 ------
