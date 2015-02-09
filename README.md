@@ -44,6 +44,7 @@ Source: http://quirksmode.org/css/user-interface/boxsizing.html
 Source: http://css-tricks.com/all-about-floats/
   
 <a name='resets'>Normalize.css vs Resets</a>
+------
 
 Source: http://stackoverflow.com/questions/6887336/what-is-the-difference-between-normalize-css-and-reset-css
   
