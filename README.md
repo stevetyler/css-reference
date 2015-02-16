@@ -33,7 +33,7 @@ box-sizing: content-box</code></pre>
 The first declaration will cause the box sizes to be applied to the border and everything inside it (traditional model), the second one will cause the box sizes to be applied to the content only (W3C model).
 
 Use the universal selector to apply a natural box layout model to all elements, but allowing components to change
-Source: http://www.paulirish.com/2012/box-sizing-border-box-ftw/ 
+
 <pre><code>html {
   box-sizing: border-box;
 }
@@ -41,11 +41,10 @@ Source: http://www.paulirish.com/2012/box-sizing-border-box-ftw/
   box-sizing: inherit;
 }</pre></code>
 
-Mozilla supports an additional padding-box value, which will cause the sizes to be applied to the padding and content, but not the border.
-
 Compatibility : IE8+ http://caniuse.com/#search=box-sizing
 
 Source: http://quirksmode.org/css/user-interface/boxsizing.html
+        http://www.paulirish.com/2012/box-sizing-border-box-ftw/ 
   
 <a name='floats'>Floats</a>
 ------
