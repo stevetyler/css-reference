@@ -7,7 +7,6 @@
 1. [Em and rem units](#em)
 1. [When to use the button element](#button)
 1. [Using non-standard fonts](#fonts)
-1. [Optimizing webpages for print](#print)
 1. [Image replacement techniques](#ir)
 1. [Writing efficient CSS](#eficient)
 
@@ -76,8 +75,8 @@ Source: http://css-tricks.com/use-button-element/
 
 Webfonts (font services like: Google Webfonts, Typekit etc.)
 
-<a name='print'>Optimizing webpages for print<a/>
-------
+<!-- <a name='print'>Optimizing webpages for print<a/>
+------ -->
 
 <!--<a name='preprocessors'>CSS pre-processors<a/>
 ------ -->
