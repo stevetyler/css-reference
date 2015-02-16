@@ -65,8 +65,8 @@ Source: https://j.eremy.net/confused-about-rem-and-em/
 
 Source: http://css-tricks.com/use-button-element/
 
-<a name='grids'>CSS grid systems<a/>
-------
+<!-- <a name='grids'>CSS grid systems<a/>
+------ -->
 
 <!-- <a name='media'>Media queries & mobile specific layouts<a/>
 ------ -->
