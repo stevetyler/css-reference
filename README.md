@@ -39,7 +39,7 @@ Use the universal selector to apply a natural box layout model to all elements, 
 Compatibility : IE8+ http://caniuse.com/#search=box-sizing
 
 Source: http://quirksmode.org/css/user-interface/boxsizing.html
-        http://www.paulirish.com/2012/box-sizing-border-box-ftw/ 
+http://www.paulirish.com/2012/box-sizing-border-box-ftw/ 
   
 <a name='floats'>Floats</a>
 ------
