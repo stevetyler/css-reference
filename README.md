@@ -56,8 +56,8 @@ Source: http://css-tricks.com/all-about-floats/
 
 Source: http://stackoverflow.com/questions/6887336/what-is-the-difference-between-normalize-css-and-reset-css
   
-<a name='hiding'>Visually hiding content<a/>
-------
+<!--<a name='hiding'>Visually hiding content<a/>
+------ -->
 
 <a name='em'>Em and rem units<a/>
 ------
@@ -72,8 +72,8 @@ Source: http://css-tricks.com/use-button-element/
 <a name='grids'>CSS grid systems<a/>
 ------
 
-<a name='media'>Media queries & mobile specific layouts<a/>
-------
+<!-- <a name='media'>Media queries & mobile specific layouts<a/>
+------ -->
 
 <a name='fonts'>Using non-standard fonts<a/>
 ------
@@ -83,8 +83,8 @@ Webfonts (font services like: Google Webfonts, Typekit etc.)
 <a name='print'>Optimizing webpages for print<a/>
 ------
 
-<a name='preprocessors'>CSS pre-processors<a/>
-------
+<!--<a name='preprocessors'>CSS pre-processors<a/>
+------ -->
 
 <a name='ir'>Image replacement techniques<a/>
 ------
