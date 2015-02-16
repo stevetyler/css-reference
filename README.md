@@ -11,7 +11,7 @@
 1. [Media queries & mobile specific layouts](#media)
 1. [Using non-standard fonts](#fonts)
 1. [Optimizing webpages for print](#print)
-1. [CSS pre-processors](#preprocessors)
+<!-- 1. [CSS pre-processors](#preprocessors) -->
 1. [Image replacement techniques](#ir)
 1. [Writing efficient CSS](#eficient)
 
